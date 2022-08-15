@@ -4,8 +4,13 @@ h1 {
 }
 a {
   font-family: 'Ubuntu', sans-serif;
-  background-color: light-grey;
+  background-color: ;
 }
 p {
   font-family: 'Ubuntu', sans-serif;
+}
+.ttl {
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: grey;
 }
