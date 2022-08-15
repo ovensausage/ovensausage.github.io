@@ -3,6 +3,7 @@ h1 {
   font-family: 'Ubuntu', sans-serif;
   position: fixed;
   background: light-grey;
+  border: 5px solid black;
 }
 a {
   font-family: 'Ubuntu', sans-serif;
