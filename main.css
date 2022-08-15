@@ -12,12 +12,12 @@ p {
 .ttl {
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
-  background-color: grey;
+  background: grey;
 }
 .a1 {
   border: 10px solid rgb(53, 97, 242);
   color: rgb(163, 202, 200);
-  background-color: white;
+  background: light-grey;
   font-family: 'Ubuntu', sans-serif;
   font-size: 12px;
   border-radius: 12px;
