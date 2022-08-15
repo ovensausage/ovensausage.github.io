@@ -22,7 +22,7 @@ p {
   width: 75px;
 }
 .titlediv{
-  color: light-grey;
+  background: grey solid;
   position: fixed;
   border: 5px solid black;
 }
