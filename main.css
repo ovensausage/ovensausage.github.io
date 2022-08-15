@@ -23,6 +23,7 @@ p {
 }
 .titlediv{
   background: grey solid;
-  position: fixed;
+  /* position: fixed;  
+  so you keep seeing it constantly */
   border: 5px solid black;
 }
