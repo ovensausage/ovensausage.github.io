@@ -1,8 +1,6 @@
 h1 {
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
-  position: fixed;
-  border: 5px solid black;
 }
 a {
   font-family: 'Ubuntu', sans-serif;
@@ -25,4 +23,6 @@ p {
 }
 .titlediv{
   background-color: light-grey;
+  position: fixed;
+  border: 5px solid black;
 }
