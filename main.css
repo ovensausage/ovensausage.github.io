@@ -16,7 +16,8 @@ p {
 }
 .a1 {
   border: 10px solid rgb(53, 97, 242);
-  backgroud-color: rgb(163, 202, 200);
+  color: rgb(163, 202, 200);
+  background-color: white;
   font-family: 'Ubuntu', sans-serif;
   font-size: 12px;
   border-radius: 12px;
