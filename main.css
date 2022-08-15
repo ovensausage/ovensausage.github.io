@@ -1,6 +1,7 @@
 h1 {
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
+  position: fixed;
 }
 a {
   font-family: 'Ubuntu', sans-serif;
