@@ -33,5 +33,7 @@ p {
 }
 .otherdiv {
   background-color: #000080;
+  border: #000080 solid 3px;
+  border-radius: 6px;
   color: white;
 }
