@@ -34,34 +34,44 @@ p {
   border-radius: ;
   color: white;
 }
-.dropdown {
-  float: left;
-  background: #90ee90;
-  border: 1px solid green;
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 12px;
-  border-radius: 12px;
-  width: 100px;
-  height: 38px;
-  position: sticky;
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
 }
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
-  width: 100%;
-  overflow: auto;
-  box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+  background-color: #00000000;
+  min-width: 200px;
+  z-index: 1;
+  margin-top: 20px;
 }
-.dropdown:hover .dropdown-content {
-  display: block;
-}
+
 .dropdown-content a {
-  display: block;
-  color: #000000;
-  padding: 5px;
+  color: black;
+  font-family: helvetica;
+  padding: 5px 5px;
   text-decoration: none;
+  display: block;
 }
-.dropdown-content a:hover {
-  color: #FFFFFF;
-  background-color: #00A4BD;
+
+hr.solid {
+  border-left: none;
+  border-right: none;
+  border-top: 1px solid #000000;
+  border-bottom: none;
+}
+
+.show {
+  display: block;
 }
