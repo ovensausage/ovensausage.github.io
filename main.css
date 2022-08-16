@@ -25,9 +25,13 @@ p {
   width: 25%;
   height: 38px;
 }
-.titlediv{
+.titlediv {
   background-color: grey;
   /* position: fixed;  
   so you keep seeing it constantly */
   border: 5px solid black;
+}
+.otherdiv {
+  background-color: #000080;
+  color: white;
 }
