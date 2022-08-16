@@ -40,11 +40,12 @@ p {
   color: white;
 }
 .dropbtn {
+  position: fixed;
   cursor: pointer;
 }
 
 .dropdown {
-  position: relative;
+  position: fixed;
   display: inline-block;
 }
 
