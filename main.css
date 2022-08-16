@@ -38,8 +38,13 @@ p {
   border-radius: ;
   color: white;
 }
-.dropbtn {
+.menudiv {
   position: sticky;
+  background-color: #0D5B88;
+  border: #0D5B88 2px solid;
+  width: 100%;
+}
+.dropbtn {
   cursor: pointer;
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
