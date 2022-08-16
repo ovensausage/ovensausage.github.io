@@ -46,6 +46,8 @@ p {
   font-size: 12px;
   width: 18%;
   height: 30px;
+  background-color: white;
+  border: green 2px solid;
 }
 
 .dropdown {
