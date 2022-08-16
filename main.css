@@ -43,6 +43,8 @@ p {
   background-color: #0D5B88;
   border: #0D5B88 2px solid;
   width: 100%;
+  color: white;
+  font-family: 'Ubuntu', sans-serif;
 }
 .dropbtn {
   cursor: pointer;
@@ -50,7 +52,6 @@ p {
   font-size: 20px;
   background-color: #0D5B88;
   border: black 2px solid;
-  color: white;
 }
 
 .dropdown {
