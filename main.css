@@ -42,9 +42,8 @@ p {
   position: fixed;
   cursor: pointer;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 12px;
-  width: 12%;
-  height: 30px;
+  font-size: 20px;
+  width: 100%;
   background-color: #0D5B88;
   border: #0D5B88 2px solid;
   color: white;
