@@ -39,7 +39,7 @@ p {
   color: white;
 }
 .dropbtn {
-  position: fixed;
+  position: sticky;
   cursor: pointer;
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
