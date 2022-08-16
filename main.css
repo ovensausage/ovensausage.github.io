@@ -61,7 +61,8 @@ p {
   background-color: #00000000;
   min-width: 200px;
   z-index: 1;
-  margin-top: 20px;
+  margin-top: 34px;
+  font-size: 12;
 }
 
 .dropdown-content a {
