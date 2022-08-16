@@ -10,11 +10,11 @@ p {
   margin: auto;
   }
 .right {
-  width: 78%;
+  width: 86%;
   float: right;
 }
 .left {
-  width: 18%;
+  width: 12%;
   float: left;
 }
 .button {
