@@ -23,6 +23,7 @@ p {
   font-size: 12px;
   border-radius: 12px;
   width: 25%;
+  height: 15px;
 }
 .titlediv{
   background: grey solid;
