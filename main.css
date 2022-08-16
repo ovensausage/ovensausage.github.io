@@ -10,7 +10,7 @@ p {
   margin: auto;
   }
 .right {
-  width: 80%;
+  width: 78%;
   float: right;
 }
 .left {
@@ -51,7 +51,7 @@ p {
 
 .dropdown-content {
   display: none;
-  position: absolute;
+  position: fixed;
   background-color: #00000000;
   min-width: 200px;
   z-index: 1;
@@ -60,7 +60,7 @@ p {
 
 .dropdown-content a {
   color: black;
-  font-family: helvetica;
+  font-family: 'Ubuntu', sans-serif;
   padding: 5px 5px;
   text-decoration: none;
   display: block;
