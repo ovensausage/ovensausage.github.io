@@ -7,6 +7,6 @@ document.getElementById("press").innerHTML = "I am a web developer and software 
 function drop() {
   document.getElementById("drop").classList.toggle("show");
   document.getElementById("drop").id = "drop2";
-  document.getElementById("drop2").classList.toggle("hide");
-  document.getElementById("drop").id = "drop";
+  document.getElementById("drop2").classList.remove("show");
+  document.getElementById("drop2").id = "drop";
 }
