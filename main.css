@@ -10,7 +10,7 @@ p {
   margin: auto;
   }
 .right {
-  width: 78%;
+  width: 80%;
   float: right;
 }
 .left {
@@ -42,6 +42,10 @@ p {
 .dropbtn {
   position: fixed;
   cursor: pointer;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 12px;
+  width: 18%;
+  height: 30px;
 }
 
 .dropdown {
