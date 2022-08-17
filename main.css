@@ -37,15 +37,15 @@ p {
   /* display: inline-block */
 }
 .otherdiv {
-  background-color: #0D5B88;
-  border: #0D5B88 solid 5px;
+  background-color: #427AA1;
+  border: #427AA1 solid 5px;
   border-radius: ;
   color: white;
 }
 .menudiv {
   position: ;
-  background-color: #0D5B88;
-  border: #0D5B88 2px solid;
+  background-color: #427AA1;
+  border: #427AA1 2px solid;
   color: white;
   font-family: 'Ubuntu', sans-serif;
 }
