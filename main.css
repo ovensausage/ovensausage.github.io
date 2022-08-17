@@ -34,7 +34,7 @@ p {
   /* position: fixed;  
   so you keep seeing it constantly */
   border: 3px solid white;
-  font-size: 30;
+  font-size: 40;
   /* display: inline-block */
 }
 .otherdiv {
@@ -83,4 +83,8 @@ p {
 
 .show {
   display: block;
+}
+.mainspan {
+  background-color: #427AA1;
+  border: #427AA1 2px solid;
 }
