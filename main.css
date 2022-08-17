@@ -30,7 +30,7 @@ p {
   /* position: fixed;  
   so you keep seeing it constantly */
   border: 3px solid white;
-  display: inline-block
+  /* display: inline-block */
   position: relative;
   left: 10%;
   width: 75%;
