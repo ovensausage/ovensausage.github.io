@@ -33,9 +33,9 @@ p {
   font-family: 'Ubuntu', sans-serif;
   /* position: fixed;  
   so you keep seeing it constantly */
-  border: 3px solid white;
   font-size: 40;
   /* display: inline-block */
+  color: white;
 }
 .otherdiv {
   background-color: #427AA1;
