@@ -32,8 +32,7 @@ p {
   border: 3px solid white;
   /* display: inline-block */
   position: relative;
-  left: 10%;
-  width: 75%;
+  width: 100%;
 }
 .otherdiv {
   background-color: #0D5B88;
@@ -76,7 +75,7 @@ p {
 .dropdown-content a {
   color: black;
   font-family: 'Ubuntu', sans-serif;
-  padding: 5px 5px;
+  padding: 5px;
   text-decoration: none;
   display: block;
   background-color: white;
