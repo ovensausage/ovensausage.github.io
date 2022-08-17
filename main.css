@@ -32,7 +32,6 @@ p {
   so you keep seeing it constantly */
   border: 3px solid white;
   /* display: inline-block */
-  width: 100%;
 }
 .otherdiv {
   background-color: #0D5B88;
@@ -44,7 +43,6 @@ p {
   position: ;
   background-color: #0D5B88;
   border: #0D5B88 2px solid;
-  width: 100%;
   color: white;
   font-family: 'Ubuntu', sans-serif;
 }
@@ -78,13 +76,6 @@ p {
   text-decoration: none;
   display: block;
   background-color: white;
-}
-
-hr.solid {
-  border-left: none;
-  border-right: none;
-  border-top: 1px solid #000000;
-  border-bottom: none;
 }
 
 .show {
