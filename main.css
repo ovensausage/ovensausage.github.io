@@ -27,10 +27,9 @@ p {
 .titlediv {
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
-  background-color: white;
   /* position: fixed;  
   so you keep seeing it constantly */
-  border: 5px solid black;
+  border: 5px solid white;
 }
 .otherdiv {
   background-color: #0D5B88;
