@@ -61,7 +61,6 @@ p {
 
 .dropdown-content {
   display: none;
-  position: fixed;
   background-color: white;
   min-width: 200px;
   z-index: 1;
