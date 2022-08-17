@@ -29,8 +29,10 @@ p {
   font-family: 'Ubuntu', sans-serif;
   /* position: fixed;  
   so you keep seeing it constantly */
-  border: 5px solid white;
+  border: 3px solid white;
   display: inline-block
+  position: relative;
+  left: 10%;
 }
 .otherdiv {
   background-color: #0D5B88;
