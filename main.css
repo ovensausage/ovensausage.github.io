@@ -40,7 +40,7 @@ p {
   color: white;
 }
 .menudiv {
-  position: sticky;
+  position: ;
   background-color: #0D5B88;
   border: #0D5B88 2px solid;
   width: 100%;
@@ -56,7 +56,6 @@ p {
 }
 
 .dropdown {
-  position: sticky;
   display: inline-block;
   background-color: white;
 }
