@@ -33,6 +33,7 @@ p {
   display: inline-block
   position: relative;
   left: 10%;
+  width: 75%;
 }
 .otherdiv {
   background-color: #0D5B88;
@@ -54,6 +55,7 @@ p {
   font-size: 20px;
   background-color: #0D5B88;
   border: white 2px solid;
+  width: 20%;
 }
 
 .dropdown {
