@@ -53,9 +53,8 @@ p {
   cursor: pointer;
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
-  background-color: #0D5B88;
+  background-color: white;
   border: white 2px solid;
-  width: 20%;
 }
 
 .dropdown {
