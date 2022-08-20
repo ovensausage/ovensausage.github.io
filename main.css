@@ -6,7 +6,7 @@ a {
   font-family: 'Ubuntu', sans-serif;
 }
 body {
-  background-color: white;
+  background-color: #1A1B46;
 }
 p {
   font-family: 'Ubuntu', sans-serif;
@@ -38,8 +38,8 @@ p {
   color: white;
 }
 .otherdiv {
-  background-color: #98ff98;
-  border: #427AA1 solid 5px;
+  background-color: #1A1B46;
+  border: #CDFFAC solid 5px;
   border-radius: ;
   color: white;
 }
@@ -55,18 +55,21 @@ p {
   float: right;
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
-  background-color: #98ff98;
-  border: white 2px solid;
+  background-color: #1A1B46;
+  border: #CDFFAC 2px solid;
 }
 
 .dropdown {
   display: inline-block;
   background-color: white;
+  border: #CDFFAC 2px solid;
+  background-color: #1A1B46;
+  color: #CDFFAC;
 }
 
 .dropdown-content {
   display: none;
-  background-color: white;
+  background-color: #1A1B46;
   min-width: 200px;
   z-index: 1;
   margin-top: 34px;
@@ -74,18 +77,19 @@ p {
 }
 
 .dropdown-content a {
-  color: black;
+  color: #CDFFAC;
   font-family: 'Ubuntu', sans-serif;
   padding: 5px;
   text-decoration: none;
   display: block;
-  background-color: white;
+  background-color: #1A1B46;
 }
 
 .show {
   display: block;
 }
 .mainspan {
-  background-color: #427AA1;
-  border: #427AA1 2px solid;
+  background-color: #1A1B46;
+  border: #1A1B46 2px solid;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
