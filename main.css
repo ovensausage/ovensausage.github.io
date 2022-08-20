@@ -11,7 +11,10 @@ body {
 p {
   font-family: 'Ubuntu', sans-serif;
   margin: auto;
-  }
+}
+ul { 
+list-style-image: url(imgages/*.*); 
+} 
 .right {
   width: 80%;
   float: right;
