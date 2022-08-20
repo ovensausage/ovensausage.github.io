@@ -1,6 +1,6 @@
 h2 {
   font-family: 'Ubuntu', sans-serif;
-  margin: auto;
+  margin: 4px;
 }
 a {
   font-family: 'Ubuntu', sans-serif;
@@ -10,10 +10,11 @@ body {
 }
 p {
   font-family: 'Ubuntu', sans-serif;
-  margin: auto;
+  margin: 4px;
 }
 li { 
-list-style-image: url(imgages/*.*); 
+  list-style-type: "►"; 
+  font-family: 'Ubuntu', sans-serif;
 } 
 .right {
   width: 80%;
