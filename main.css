@@ -38,14 +38,14 @@ p {
   color: white;
 }
 .otherdiv {
-  background-color: #427AA1;
+  background-color: #98ff98;
   border: #427AA1 solid 5px;
   border-radius: ;
   color: white;
 }
 .menudiv {
   position: top;
-  background-color: #427AA1;
+  background-color: #98ff98;
   border: #427AA1 2px solid;
   color: white;
   font-family: 'Ubuntu', sans-serif;
@@ -55,7 +55,7 @@ p {
   float: right;
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
-  background-color: white;
+  background-color: #98ff98;
   border: white 2px solid;
 }
 
