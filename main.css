@@ -12,7 +12,7 @@ p {
   font-family: 'Ubuntu', sans-serif;
   margin: auto;
 }
-ul { 
+li { 
 list-style-image: url(imgages/*.*); 
 } 
 .right {
