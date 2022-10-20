@@ -33,6 +33,7 @@ li {
   height: 38px;
 }
 bold {
+  width: 70%;
   text-align: center;
   font-family: 'Ubuntu', sans-serif;
   /* position: fixed;  
