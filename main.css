@@ -58,6 +58,7 @@ li {
 .dropbtn {
   cursor: pointer;
   float: right;
+  width: 20%;
   font-family: 'Ubuntu', sans-serif;
   font-size: 20px;
   background-color: #1A1B46;
